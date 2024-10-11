@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dev Teen Bot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
